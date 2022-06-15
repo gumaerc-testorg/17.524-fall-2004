@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The assignment section includes the research paper guidelines.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
