@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The assignment section includes the research paper guidelines.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 78c6f423-892a-1551-f39e-16b7f1495244
 ---
